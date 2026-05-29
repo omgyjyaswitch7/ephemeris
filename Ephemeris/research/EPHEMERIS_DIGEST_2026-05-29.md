@@ -4,7 +4,9 @@
 
 **Sources:** arXiv · NASA / Chandra / JPL · GitHub · Semantic Scholar
 
-**Total unique results:** 19 arXiv papers · 36 NASA items · 30 GitHub repositories · 16 Semantic Scholar-unique papers
+**Total unique results:** 20 arXiv papers · 38 NASA items · 30 GitHub repositories · 16 Semantic Scholar-unique papers
+
+**Last updated:** 2026-05-29 (added 3 new items from current search run)
 
 ---
 
@@ -41,6 +43,12 @@
 | Inspecting spectra with sound: proof-of-concept & extension to datacubes | https://arxiv.org/abs/2306.10126 | Jun 2023 | Demonstrates that direct audification of optical galaxy spectra enables extraction of physical information, extended to 3D spectral datacubes. |
 | Interactive Multimodal Integral Field Spectroscopy (ViewCube) | https://arxiv.org/abs/2412.00185 | Nov 2024 | Presents ViewCube, combining interactive visualization and deep-learning-based binaural sonification of IFS galaxy datacubes (CALIFA survey). |
 | Audio Universe: Tour of the Solar System | https://arxiv.org/abs/2112.02110 | Dec 2021 | Describes an accessible planetarium show where Solar System objects are represented with spatially positioned sound using STRAUSS, allowing audiences to hear planets orbit. |
+
+### Ephemeris & Orbital Data Tools
+
+| Title | URL | Date | Summary | Language |
+|-------|-----|------|---------|---------|
+| EphemerisSources.jl: Idiomatic Ephemeris Sourcing and Parsing in Julia | https://arxiv.org/abs/2411.12774 | Nov 2024 | Julia package suite (HorizonsAPI.jl, HorizonsEphemeris.jl, SPICEKernels.jl) for downloading and parsing Cartesian state-vector ephemeris data from the JPL Horizons REST API and SPICE kernels. | Julia, C (CSPICE) |
 
 ### Radio Astronomy / SDR
 
@@ -81,6 +89,8 @@
 | Cosmic Harmonies: Sonifications From NASA Telescopes | NASA/Chandra | https://www.nasa.gov/missions/chandra/cosmic-harmonies-sonifications-from-nasa-telescopes/ | 2023–2024 | Overview article on multi-wavelength sonifications combining Chandra, Webb, Hubble, and Spitzer data, assigning different instruments to each telescope's data stream. |
 | Chandra sonify10: "NASA Telescopes Tune Into a Black Hole Prelude, Fugue" | Chandra | https://chandra.harvard.edu/photo/2025/sonify10/ | May 8, 2025 | Latest release: objects from 18,000 to 12 million light-years scanned clockwise, structured as a musical prelude and fugue. |
 | NASA Telescopes Tune Into a Black Hole Prelude, Fugue (article) | NASA | https://www.nasa.gov/missions/chandra/nasa-telescopes-tune-into-a-black-hole-prelude-fugue/ | May 2025 | NASA news article accompanying sonify10, describing the musical structure applied to multi-telescope black hole data. |
+| From Space to the Stage: New Symphony Inspired by NASA's Chandra | Chandra/CfA | https://chandra.harvard.edu/press/25_releases/press_120125.html | Dec 1, 2025 | Composer Sophie Kastner transformed Chandra X-ray and James Webb Space Telescope data into a two-part musical suite tracing the stellar lifecycle, premiered as a live performance. |
+| Listen to This Month's 'Planetary Parade' With NASA's Chandra | NASA/Chandra | https://www.nasa.gov/missions/chandra/listen-to-this-months-planetary-parade-with-nasas-chandra/ | Feb 25, 2026 | NASA released sonifications of Jupiter, Saturn, and Uranus using Chandra X-ray data combined with Hubble and Keck imagery, timed to February's naked-eye planetary alignment. |
 | 'Listen' to the Light Echoes From a Black Hole | NASA | https://www.nasa.gov/universe/listen-to-the-light-echoes-from-a-black-hole/ | 2022–2023 | Sonification of X-ray light echo data from a black hole binary, translating temporal brightness variations into pitched audio. |
 | Stephan's Quintet Sonifications | NASA Science/Webb | https://science.nasa.gov/asset/webb/stephans-quintet-sonifications/ | 2022–2023 | Multi-source sonification of the Stephan's Quintet galaxy group using JWST, Chandra, and Spitzer data, with individual galaxies and X-ray gas mapped to distinct instruments. |
 | R Aquarii Sonification | NASA Science | https://science.nasa.gov/resource/r-aquarii-sonification-from-chandra-x-ray-observatory-nasa-telescopes/ | 2022–2024 | Sonification of the symbiotic nova R Aquarii using Chandra X-ray and optical data, mapping the nebula's spiral jet to sound. |
